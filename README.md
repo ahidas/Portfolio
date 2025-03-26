@@ -32,7 +32,7 @@ Emulator for a fictional `.SLUG` instruction set running classic games like Flap
 
 ## Full-Stack + Tools Projects
 
-### [Words With Buddies]()
+### [Words With Buddies](https://github.com/ahidas/Words-with-Buddies)
 A Scrabble/Words With Friends bot powered by a C backend, with a full web interface and account support.
 
 - **Tech:** C, Python (Flask), React.js, SQL, Netlify
