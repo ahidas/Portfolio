@@ -8,7 +8,7 @@ This portfolio highlights selected projects demonstrating my experience with mic
 
 ## Embedded Systems Projects
 
-### [Automated Drink Dispenser]()
+### [Automated Drink Dispenser](https://github.com/ahidas/Pourfect)
 A microcontroller-based drink dispenser using sensors and interrupt-driven logic to automate safe, accurate pours.
 
 - **Tech:** C, STM32, PlatformIO, I2C, LCD Display
