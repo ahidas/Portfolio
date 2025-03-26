@@ -1,4 +1,4 @@
-# Adam Hidas – Project Portfolio
+# Adam Hidas – Portfolio
 
 Hi! I'm a Computer Engineering student at the University of California, Santa Cruz, with a passion for embedded systems, low-level development, and hardware/software integration.
 
@@ -32,7 +32,7 @@ Emulator for a fictional `.SLUG` instruction set running classic games like Flap
 
 ## Full-Stack + Tools Projects
 
-### 🔠 [Words With Buddies]()
+### [Words With Buddies]()
 A Scrabble/Words With Friends bot powered by a C backend, with a full web interface and account support.
 
 - **Tech:** C, Python (Flask), React.js, SQL, Netlify
