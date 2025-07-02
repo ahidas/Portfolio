@@ -43,6 +43,19 @@ A Scrabble/Words With Friends bot powered by a C backend, with a full web interf
 
 ---
 
+### [Cloud-Connected Weather Monitoring with Raspberry Pi](https://github.com/ahidas/WeatherServer)
+A full-stack IoT system integrating multiple Raspberry Pi weather stations with a Flask-based web server and MySQL backend.
+
+- **Tech:** Python, Flask, MySQL, phpMyAdmin, XAMPP, Ngrok  
+- **Highlights:**
+  - Implemented both polling and token ring topologies for Pi-to-Pi and Pi-to-cloud communication  
+  - Designed a secure web interface with user authentication and real-time sensor data visualization  
+  - Developed dynamic configuration syncing between Pis and server via database  
+  - Hosted live demo using PythonAnywhere and Ngrok tunnel
+- **[Demo Website](https://ahidas2.pythonanywhere.com/)**
+  - For more information on using the website refer to the pdf located in the repo
+---
+
 ## Contact
 
 - ahidas@ucsc.edu  
