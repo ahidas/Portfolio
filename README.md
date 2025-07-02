@@ -19,15 +19,18 @@ A microcontroller-based drink dispenser using sensors and interrupt-driven logic
 
 ---
 
-### Banana Emulator *(Private – Available on Request)*
-Emulator for a fictional `.SLUG` instruction set running classic games like Flappy Bird and Snake.
+### [Cloud-Connected Weather Monitoring with Raspberry Pi](https://github.com/ahidas/WeatherServer)
+A full-stack IoT system integrating multiple Raspberry Pi weather stations with a Flask-based web server and MySQL backend.
 
-- **Tech:** C++, SDL2, Git, CMake, Xcode Instruments
+- **Tech:** Python, Flask, MySQL, phpMyAdmin, XAMPP, Ngrok  
 - **Highlights:**
-  - Maintained 60 FPS through instruction and rendering optimizations
-  - Developed in a 5-person team using Git for collaboration
-  - Used profiling tools for memory and performance analysis
-
+  - Implemented both polling and token ring topologies for Pi-to-Pi and Pi-to-cloud communication  
+  - Designed a secure web interface with user authentication and real-time sensor data visualization  
+  - Developed dynamic configuration syncing between Pis and server via database  
+  - Hosted live demo using PythonAnywhere and Ngrok tunnel
+- **[Demo Website](https://ahidas2.pythonanywhere.com/)**
+  - For more information on using the website refer to the pdf located in the repo
+    
 ---
 
 ## Full-Stack + Tools Projects
@@ -43,17 +46,15 @@ A Scrabble/Words With Friends bot powered by a C backend, with a full web interf
 
 ---
 
-### [Cloud-Connected Weather Monitoring with Raspberry Pi](https://github.com/ahidas/WeatherServer)
-A full-stack IoT system integrating multiple Raspberry Pi weather stations with a Flask-based web server and MySQL backend.
+### Banana Emulator *(Private – Repo Available on Request)*
+Emulator for a fictional `.SLUG` instruction set running classic games like Flappy Bird and Snake.
 
-- **Tech:** Python, Flask, MySQL, phpMyAdmin, XAMPP, Ngrok  
+- **Tech:** C++, SDL2, Git, CMake, Xcode Instruments
 - **Highlights:**
-  - Implemented both polling and token ring topologies for Pi-to-Pi and Pi-to-cloud communication  
-  - Designed a secure web interface with user authentication and real-time sensor data visualization  
-  - Developed dynamic configuration syncing between Pis and server via database  
-  - Hosted live demo using PythonAnywhere and Ngrok tunnel
-- **[Demo Website](https://ahidas2.pythonanywhere.com/)**
-  - For more information on using the website refer to the pdf located in the repo
+  - Maintained 60 FPS through instruction and rendering optimizations
+  - Developed in a 5-person team using Git for collaboration
+  - Used profiling tools for memory and performance analysis
+
 ---
 
 ## Contact
